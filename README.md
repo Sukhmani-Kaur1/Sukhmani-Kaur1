@@ -2,7 +2,7 @@
 <h3 align="center">Java Backend Developer</h3>
 <h3 align="left">About Me</h3>
 <div style="display: flex; justify-content: space-around;" >
- <p align="left" style="width: 50%;">Solution-oriented and problem solver with Hands on experience in DSA, Enthusiast Learner & Proficient Full Stack Java Developer. Highly skilled in communication, collaboration, and technical documentation.
+ <p align="left" style="width: 50%;">Solution-oriented and problem solver with Hands on experience in DSA, Enthusiast Learner & Proficient Java Developer. Highly skilled in communication, collaboration, and technical documentation.
  </p>
  <img  align="right" alt="Coding" width="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 </div>
