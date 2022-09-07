@@ -14,3 +14,7 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1afOpQjB5osRF2zHYUlH-SkX5fv5vnXol/view?usp=sharing)
 
 - 💻 Check my profile at [Showcase](https://www.showwcase.com/sukhmani-kaur)
+<hr>
+
+
+
