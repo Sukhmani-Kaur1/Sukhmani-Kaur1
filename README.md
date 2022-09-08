@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sukhmani</h1>
 <h3 align="center">Java Backend Developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sukhmani-Kaur1&label=Profile%20views&color=0e75b6&style=flat" alt="Sukhmani-Kaur1" /> </p>
 <h3 align="left">About Me</h3>
 <div style="display: flex; justify-content: space-around;" >
  <p align="left" style="width: 50%;">Solution-oriented and problem solver with Hands on experience in DSA, Enthusiast Learner & Proficient Java Developer. Highly skilled in communication, collaboration, and technical documentation.
@@ -9,18 +10,23 @@
 
 
 
-- 📫 Feel free to reach me at **sukhmani.dev006@gmail.com**
+
+- 🌱 I’m currently learning **Spring Boot, Hibernate, MySQL, Java**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1afOpQjB5osRF2zHYUlH-SkX5fv5vnXol/view?usp=sharing)
 
-- 👩‍💻 Here is my [Portfolio](https://sukhmani-kaur.netlify.app)
-
 - 💻 Check my profile at [Showcase](https://www.showwcase.com/sukhmani-kaur)
+
+- 👨‍💻 All of my projects are available at [https://sukhmani-kaur.netlify.app](https://sukhmani-kaur.netlify.app/)
+
+- 💬 Ask me about ** HTML, CSS, JS, Java, MySQL, Spring, Hibernate **
+
+- 📫 Feel free to reach me at **sukhmani.dev006@gmail.com**
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sukhmani-kaur-5177a6230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sukhmani kaur" height="30" width="40" /></a>
- <a href="https://www.linkedin.com/in/sukhmani-kaur-5177a6230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="sukhmani kaur" height="30" width="40" /></a>
+ <a href="https://twitter.com/SukhmaniKaur01" target="blank" style="margin-right: 20px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
