@@ -28,7 +28,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sukhmani-kaur1&show_icons=true&locale=en" alt="sukhmani-kaur1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sukhmani-kaur1&" alt="sukhmani-kaur1" /></p>
+
 
 
 
