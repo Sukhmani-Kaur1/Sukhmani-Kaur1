@@ -36,4 +36,4 @@
 
 <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=sukhmani-kaur1&show_icons=true&locale=en" alt="sukhmani-kaur1" /></div>
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sukhmani-Kaur1)](https://git.io/streak-stats)
