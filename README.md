@@ -36,3 +36,8 @@
 
 <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=sukhmani-kaur1&show_icons=true&locale=en" alt="sukhmani-kaur1" /></div>
 
+<!--------------------------------------------------------------------------------> 
+   <h2><i>My Activity Graph</i></h2>
+  <br/>
+   <a href="https://github.com/Sukhmani-Kaur1"><img alt="Sukhmani-Kaur1 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sukhmani-Kaur1&custom_title=Sukhmani-Kaur1's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
