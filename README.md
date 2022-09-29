@@ -35,6 +35,7 @@
 <div display="flex" justify-content:"space-around" ><img width="45%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=sukhmani-kaur1&show_icons=true&locale=en&layout=compact" alt="sukhmani-kaur1" />
 
 <img width="45%"  src="https://github-readme-stats.vercel.app/api?username=sukhmani-kaur1&show_icons=true&locale=en" alt="sukhmani-kaur1" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sukhmani-Kaur1&theme=light)](https://git.io/streak-stats)
 </div>
 
  
