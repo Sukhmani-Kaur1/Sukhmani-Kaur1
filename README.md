@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sukhmani-Kaur1&label=Profile%20views&color=0e75b6&style=flat" alt="Sukhmani-Kaur1" /> </p>
 <h3 align="left">About Me</h3>
 <div style="display: flex; justify-content: space-around;" >
- <p align="left" style="width: 50%;">Solution-oriented  problem solving with Hands on experience in DSA, Enthusiast Learner & Proficient Java Developer. Highly skilled in SQL, Hibernate, RDBMS, Spring Boot.
+ <p align="left" style="width: 50%;">Solution-oriented Backend Developer highly skilled in Java core, MySQL, Hibernate and Spring boot, Proficiency in data structures and algorithms and demonstrated excellent communication and listening skills. I always strive to achieve the highest standard possible, at any given task or situation.
  </p>
  <img  align="right" alt="Coding" width="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 </div>
