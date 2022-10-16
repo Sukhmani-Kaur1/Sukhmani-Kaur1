@@ -17,7 +17,7 @@
 
 - 💻 Check my profile at [Showcase](https://www.showwcase.com/sukhmani-kaur)
 
-- 👩‍💻 All of my projects are available at [https://sukhmani-kaur.netlify.app](https://sukhmani-kaur.netlify.app/)
+- 👩‍💻 All of my projects are available at [sukhmani-kaur1.github.io](https://sukhmani-kaur1.github.io/)
 
 - 💬 Ask me about ** HTML, CSS, JS, Java, MySQL, Spring, Hibernate **
 
