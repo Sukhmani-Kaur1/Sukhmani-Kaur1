@@ -19,7 +19,7 @@
 
 - 👩‍💻 All of my projects are available at [sukhmani-kaur1.github.io](https://sukhmani-kaur1.github.io/)
 
-- 💬 Ask me about ** HTML, CSS, JS, Java, MySQL, Spring, Hibernate **
+- 💬 Ask me about ** Javascript, Java, MySQL, Spring **
 
 - 📫 Feel free to reach me at **sukhmani.dev006@gmail.com**
 <hr>
