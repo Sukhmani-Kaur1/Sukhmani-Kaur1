@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, Hibernate, MySQL, Java**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1afOpQjB5osRF2zHYUlH-SkX5fv5vnXol/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ACbcqLIy6eAhyXiUVLgprzHOQfpUngXp/view?usp=sharing)
 
 - 💻 Check my profile at [Showcase](https://www.showwcase.com/sukhmani-kaur)
 
