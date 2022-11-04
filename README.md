@@ -13,13 +13,16 @@
 
 - 🌱 I’m currently learning **Spring Boot, Hibernate, MySQL, Java**
 
+
+- 💬 Ask me about ** Javascript, Java, MySQL, Spring, DSA  **
+
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ACbcqLIy6eAhyXiUVLgprzHOQfpUngXp/view?usp=sharing)
 
-- 💻 Check my profile at [Showcase](https://www.showwcase.com/sukhmani-kaur)
+-  👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👩‍💻 All of my projects are available at [sukhmani-kaur1.github.io](https://sukhmani-kaur1.github.io/)
 
-- 💬 Ask me about ** Javascript, Java, MySQL, Spring, DSA  **
+- 💻 Check my profile at [Showcase](https://www.showwcase.com/sukhmani-kaur)
 
 - 📫 Feel free to reach me at **sukhmani.dev006@gmail.com**
 <hr>
