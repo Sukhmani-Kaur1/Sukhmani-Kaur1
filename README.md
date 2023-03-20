@@ -11,10 +11,10 @@
 
 
 
-- 🌱 I’m currently learning **Spring Boot, Hibernate, MySQL, Java**
+- 🌱 I’m currently learning **Selenium and Manual Testing**
 
 
-- 💬 Ask me about ** Javascript, Java, MySQL, Spring, DSA  **
+- 💬 Ask me about ** Java, Javascript, MySQL, Spring, Manual Testing, Selenium, Cypress, Python **
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ACbcqLIy6eAhyXiUVLgprzHOQfpUngXp/view?usp=sharing)
 
