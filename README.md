@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning **Selenium and Manual Testing**
+- 🌱 I’m currently learning **API Testing and Mobile Testing**
 
 
 - 💬 Ask me about ** Java, Javascript, MySQL, Spring, Manual Testing, Selenium, Cypress, Python **
