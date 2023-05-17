@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **Mobile Testing and Operating Systems**
 
 
-- 💬 Ask me about ** Java, Javascript, MySQL, Spring, Manual Testing, Selenium, Cypress, Python **
+- 💬 Ask me about ** Java, Javascript, MySQL, Manual Testing, Selenium, Cypress, Appium, Potman, RestAssured **
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ACbcqLIy6eAhyXiUVLgprzHOQfpUngXp/view?usp=sharing)
 
