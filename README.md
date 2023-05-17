@@ -22,8 +22,6 @@
 
 - 👩‍💻 All of my projects are available at [sukhmani-kaur1.github.io](https://sukhmani-kaur1.github.io/)
 
-- 💻 Check my profile at [Showcase](https://www.showwcase.com/sukhmani-kaur)
-
 - 📫 Feel free to reach me at **sukhmani.dev006@gmail.com**
 <hr>
 <h3 align="left">Connect with me: </h3>
