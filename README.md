@@ -41,11 +41,3 @@
 <img width = "32%" src="https://streak-stats.demolab.com/?user=sukhmani-kaur1&theme=default" alt="sukhmani-kaur1"/>
 </div>
 
- 
-<br>
-  
- <!--------------------------------------------------------------------------------> 
-   <h3>My Activity Graph:</h3>
-  <br/>
-   <a href="https://github.com/Sukhmani-Kaur1"><img alt="sathish-dhana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sukhmani-Kaur1&custom_title=Sukhmani's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
