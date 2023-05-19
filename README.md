@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning **Mobile Testing and Operating Systems**
+- 🌱 I’m currently learning **Mobile Testing,Linux and Operating Systems**
 
 
 - 💬 Ask me about ** Java, Javascript, MySQL, Manual Testing, Selenium, Cypress, Appium, Potman, RestAssured **
