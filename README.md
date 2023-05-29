@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **Shell Scripting, Linux**
 
 
-- 💬 Ask me about ** Java, Javascript, MySQL, Manual Testing, Selenium, Cypress, Appium, Potman, RestAssured **
+- 💬 Ask me about ** Java, Javascript, MySQL, Manual Testing, Selenium, Cypress, Appium, Potman, RestAssured, Jmeter **
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ACbcqLIy6eAhyXiUVLgprzHOQfpUngXp/view?usp=sharing)
 
