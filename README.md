@@ -16,7 +16,7 @@
 
 - 💬 Ask me about ** Java, Javascript, MySQL, Manual Testing, Selenium, Cypress, Appium, Potman, RestAssured, Jmeter **
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ACbcqLIy6eAhyXiUVLgprzHOQfpUngXp/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/116t5U0w0QLu9knmb2mqc3TDR7FtZySnH/view?usp=sharing)
 
 -  👯 I’m looking to collaborate on **OpenSource Projects**
 
