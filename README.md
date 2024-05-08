@@ -3,7 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sukhmani-Kaur1&label=Profile%20views&color=0e75b6&style=flat" alt="Sukhmani-Kaur1" /> </p>
 <h3 align="left">About Me</h3>
 <div style="display: flex; justify-content: space-around;" >
- <p align="left" style="width: 50%;">An enthusiastic Software Development Engineer in Test (SDET) with a strong foundation in Java, JavaScript, and the basics of Python, I am passionate about delivering high-quality software solutions. With a keen eye for detail and a commitment to excellence,  al testing and have expertise in web automation frameworks such as Selenium and Cypress, as well as API testing with Postman and Rest Assured. I am also proficient in mobile testing with Appium, and CI/CD tool Jenkins. I am dedicated to continuous learning and staying up-to-date with the latest industry trends and best practices.
+ <p align="left" style="width: 50%;">
+I'm a Quality Analyst with a passion for ensuring smooth and efficient software experiences. I specialize in both automation and manual testing, with a focus on identifying and solving complex issues. My goal is to continuously learn and improve to deliver high-quality solutions.
+
+When I'm not testing or debugging, you can find me exploring new tools and technologies to stay up to date with the latest industry trends. Feel free to connect with me or explore my repositories to see my work!
+
  </p>
  <img  align="right" alt="Coding" width="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 </div>
