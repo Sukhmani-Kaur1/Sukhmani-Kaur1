@@ -26,7 +26,7 @@
 <hr>
 <h3 align="left">Connect with me: </h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sukhmani-kaur-5177a6230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sukhmani kaur" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/sukhmani-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sukhmani kaur" height="30" width="40" /></a>
  <a href="https://twitter.com/SukhmaniKaur01" target="blank" style="margin-right: 20px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
 </p>
 
