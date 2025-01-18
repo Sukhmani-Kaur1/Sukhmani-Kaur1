@@ -25,7 +25,7 @@ I am a passionate **Software Development Engineer in Test (SDET)** with expertis
 ---
 
 ### 📚 Currently Exploring
-- Advanced **Shell Scripting** and **Linux** for testing.  
+- **Gen AI** and **LLM's** for testing.  
 - Enhanced **test automation** using AI-driven tools and frameworks.
 
 ---
