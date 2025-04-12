@@ -4,7 +4,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/Sukhmani-Kaur1?label=Follow&style=social)](https://github.com/Sukhmani-Kaur1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/sukhmani-dev)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://youtube.com/@SheTestsIt)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/SukhmaniKaur01)
 
 Welcome to the official repository of my personal portfolio — [sukhmani.dev](https://sukhmani.dev)  
 A hub for **QA Automation**, **YouTube content**, and **Tech Blogging**. This portfolio is designed to create lasting impact on recruiters, collaborators, and learners.
