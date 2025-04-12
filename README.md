@@ -1,94 +1,92 @@
-# 🚀 Sukhmani | SDET • Automation Trainer • Tech Creator
+# 👩‍💻 Sukhmani | SDET • Automation Trainer • Tech Content Creator
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sukhmani.dev)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sukhmani.dev.portfolio)
 [![GitHub followers](https://img.shields.io/github/followers/Sukhmani-Kaur1?label=Follow&style=social)](https://github.com/Sukhmani-Kaur1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/sukhmani-dev)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://youtube.com/@SheTestsIt)
 
-Welcome to the official repository of my personal portfolio — [sukhmani.dev](https://sukhmani.dev)  
-A hub for **QA Automation**, **YouTube content**, and **Tech Blogging**. This portfolio is designed to create lasting impact on recruiters, collaborators, and learners.
+Welcome to my GitHub profile! I'm **Sukhmani**, a passionate **SDET**, **Automation Trainer**, and **Tech Creator**. I'm here to share my open-source contributions, automation projects, and everything I learn and teach about QA, test automation, and software engineering.
+
+🚀 You can find my work on automation frameworks, test scripts, and some of the training content I’ve created for aspiring automation engineers.
 
 ---
 
-## 🎯 About the Project
+## 📈 Stats & Highlights
 
-This is a **fully customized, high-conversion portfolio** built using `Next.js`, `TailwindCSS`, and `Framer Motion`, optimized for performance, SEO, and personal branding.  
-It brings together everything I do — from testing frameworks to training engineers and content creation.
+### 💻 **Key Skills & Technologies**
 
-### 🧠 Features
-- 🔍 **SEO-Optimized Meta Tags & Schema Markup**
-- 🖥️ Dynamic Portfolio Cards with Embedded YouTube Demos
-- 🧪 Real-World QA Projects with GitHub + Live Demos
-- 🎥 Integrated YouTube Playlists (Appium, Selenium, Playwright)
-- 📝 Blog Previews with Tags, Rich Snippets & Internal Linking
-- 📈 Contact/Resume CTA with Google Analytics & Search Console support
+- **Automation Testing**: Selenium, Appium, Playwright, Cypress, RestAssured, TestNG
+- **Languages**: Java, JavaScript, Python, SQL
+- **CI/CD Tools**: Jenkins, GitHub Actions, Bitbucket Pipelines
+- **Frameworks**: Spring Boot, Express.js
+- **Cloud**: AWS (S3, Lambda), Docker, Kubernetes
 
----
+### 🔥 **Quick Stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sukhmani-Kaur1&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark&bg_color=2A2A2A)
 
-## 📊 Traffic & Performance
-
-> 🚀 Powered with **Google Search Console** & **SEO Schema**, the portfolio is actively optimized for high-ranking keywords:
-
-| Metric               | Insight                            |
-|----------------------|-------------------------------------|
-| Target Keywords      | `QA Tester`, `SDET`, `Appium`, `Playwright`, `Automation Engineer` |
-| Avg Monthly Visitors | 1.5K+ (tracked via Google Analytics) |
-| Page Speed Score     | 95+ (Desktop & Mobile)              |
-| Bounce Rate          | Low (High engagement via blog/videos) |
-| Traffic Sources      | YouTube, LinkedIn, GitHub, Google   |
+- **Open Source Contributions**: 15+ repositories
+- **Followers**: 1K+ (and growing!)
+- **Repositories**: 20+ automation testing repos, frameworks, and personal projects
+- **YouTube Subscribers**: 1K+ (check out my tutorials!)
 
 ---
 
-## 🛠️ Built With
+## 🧑‍🏫 **YouTube Tech Tutorials**
 
-- **Next.js** – React Framework for Performance & SSR
-- **TailwindCSS** – Utility-first Styling
-- **Framer Motion** – Smooth animations
-- **Markdown & MDX** – For writing blogs and project content
-- **Lottie + SVGs** – For motion illustrations
-- **Google Structured Data** – Blog + FAQ + Person schema
-- **Open Graph** – Social sharing previews
-- **Vercel** – Hosted & deployed with CI/CD
+I regularly create YouTube content aimed at helping fellow engineers and testers improve their skills. 
 
----
-
-## 🧪 QA Projects Featured
-
-- ✅ **Multi-service automation pipelines** (Selenium, RestAssured, Postman)
-- 📱 **Mobile test automation using Appium**
-- 🌐 **Playwright JS end-to-end testing**
-- 🧩 **CI/CD integration with Jenkins & GitHub Actions**
-- 🎓 Real-world automation training material used to train 100+ professionals
+🔗 **[Watch My YouTube Channel - SheTestsIt](https://youtube.com/@SheTestsIt)**  
+Some of my popular videos include:
+- **Manual vs Automation Testing – Which One’s for You?**
+- **Bug Bounty #1: Let’s Test Flipkart’s Search Feature**
+- **How to Build a QA Mindset – Tips from My Journey**
 
 ---
 
-## 📹 YouTube Training Highlights
+## 📚 **Latest Blog Posts**
 
-> [📺 Watch on YouTube →](https://youtube.com/@SheTestsIt)
+Here are some of my blog posts where I dive into QA, automation, and career advice:
 
-| Playlist                                  | Topics Covered                                                 |
-|-------------------------------------------|--------------------------------------------------------------|
-| Playwright Tutorial for Beginners        | A step-by-step guide for getting started with Playwright.      |
-| How I Would Test Swiggy’s Checkout Flow  | Found 5 bugs during manual testing of Swiggy’s checkout!       |
-| Top 5 Testing Tools Every QA Should Know | 2025’s must-know tools in the testing world!                   |
+- [How to Build a QA Mindset](https://sukhmani.dev/blog/qa-mindset)
+- [Top 5 Tools for Test Automation in 2025](https://sukhmani.dev/blog/top-5-qa-tools-2025)
+- [Selenium vs Playwright – Which One Should You Choose?](https://sukhmani.dev/blog/selenium-vs-playwright)
 
 ---
 
-## 📩 Contact & Collaboration
+## 🔗 **Connect with Me**
 
-> Want to work together or have a query?
-
-- 🔗 Website: [sukhmani.dev](https://sukhmani.dev)
-- 📬 Email: [sukhmani.dev006@gmail.com](mailto:sukhmani.dev006@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/sukhmani-dev](https://linkedin.com/in/sukhmani-dev)
-
----
-
-## 🌟 Show Some Love
-
-If this project inspired or helped you, feel free to ⭐ star this repo or share it with your network.
+- **LinkedIn**: [@sukhmani-dev](https://linkedin.com/in/sukhmani-dev)
+- **Twitter**: [@SukhmaniKaur01](https://twitter.com/SukhmaniKaur01)
+- **Email**: [sukhmani.dev006@gmail.com](mailto:sukhmani.dev006@gmail.com)
+- **Website**: [sukhmani.dev](https://sukhmani.dev)
 
 ---
 
-> _“Automation isn’t just about saving time. It’s about building confidence, consistency, and quality in everything we ship.” — Sukhmani_
+## 🌱 **What I’m Learning & Building**
 
+- 💡 **Improving my automation testing skills** using Playwright and integrating advanced CI/CD pipelines.
+- 🎥 **Creating more YouTube tutorials** around QA, automation, and testing best practices.
+- 📖 **Writing blogs** on career advice for testers and automation engineers.
+- 🚀 Building open-source testing frameworks to help QA engineers get better at test automation.
+
+---
+
+## 🏆 **Recognition & Testimonials**
+
+- **Lead Instructor**: Trained 100+ engineers in Appium, Selenium, and Playwright.
+- **QA Architect**: Led testing strategies across microservices, improving bug-free releases by 45%.
+
+---
+
+## 💬 **Let’s Collaborate**
+
+I'm always open to new opportunities, collaboration, or just a chat about QA, test automation, and tech content creation. Feel free to **[reach out](mailto:sukhmani.dev006@gmail.com)** anytime!
+
+---
+
+> _"Automation isn't just about reducing time spent on testing — it's about creating a reliable, scalable, and sustainable testing process."_
+
+---
+
+⭐ **Feel free to star my repositories if you find them useful!**
