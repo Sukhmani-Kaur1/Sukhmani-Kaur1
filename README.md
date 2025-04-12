@@ -1,6 +1,6 @@
 # 🚀 Sukhmani | SDET • Automation Trainer • Tech Creator
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sukhmani.dev.portfolio)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sukhmani.dev)
 [![GitHub followers](https://img.shields.io/github/followers/Sukhmani-Kaur1?label=Follow&style=social)](https://github.com/Sukhmani-Kaur1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/sukhmani-dev)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://youtube.com/@SheTestsIt)
