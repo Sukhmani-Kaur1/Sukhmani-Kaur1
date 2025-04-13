@@ -88,5 +88,3 @@ I'm always open to new opportunities, collaboration, or just a chat about QA, te
 > _"Automation isn't just about reducing time spent on testing — it's about creating a reliable, scalable, and sustainable testing process."_
 
 ---
-
-⭐ **Feel free to star my repositories if you find them useful!**
