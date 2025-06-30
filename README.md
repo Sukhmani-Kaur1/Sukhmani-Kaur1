@@ -1,4 +1,4 @@
-# 👩‍💻 Sukhmani | SDET • Automation Trainer • Tech Content Creator
+# 👩‍💻 Sukhmani | SDET • Tech Content Creator
 
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sukhmani.dev.portfolio)
@@ -25,34 +25,17 @@ Welcome to my GitHub profile! I'm **Sukhmani**, a passionate **SDET**, **Automat
 ### 🔥 **Quick Stats**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sukhmani-Kaur1&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark&bg_color=2A2A2A)
 
-- **Open Source Contributions**: 15+ repositories
-- **Followers**: 1K+ (and growing!)
+- **Followers**: growing!
 - **Repositories**: 20+ automation testing repos, frameworks, and personal projects
-- **YouTube Subscribers**: 1K+ (check out my tutorials!)
+- **YouTube**: check out my tutorials!
 
 ---
 
 ## 🧑‍🏫 **YouTube Tech Tutorials**
 
-I regularly create YouTube content aimed at helping fellow engineers and testers improve their skills. 
+I regularly create YouTube content designed to help fellow engineers and testers enhance their skills. 
 
 🔗 **[Watch My YouTube Channel - SheTestsIt](https://youtube.com/@SheTestsIt)**  
-Some of my popular videos include:
-- **Manual vs Automation Testing – Which One’s for You?**
-- **Bug Bounty #1: Let’s Test Flipkart’s Search Feature**
-- **How to Build a QA Mindset – Tips from My Journey**
-
----
-
-## 📚 **Latest Blog Posts**
-
-Here are some of my blog posts where I dive into QA, automation, and career advice:
-
-- [How to Build a QA Mindset](https://sukhmani.dev/blog/qa-mindset)
-- [Top 5 Tools for Test Automation in 2025](https://sukhmani.dev/blog/top-5-qa-tools-2025)
-- [Selenium vs Playwright – Which One Should You Choose?](https://sukhmani.dev/blog/selenium-vs-playwright)
-
----
 
 ## 🔗 **Connect with Me**
 
@@ -74,7 +57,7 @@ Here are some of my blog posts where I dive into QA, automation, and career advi
 
 ## 🏆 **Recognition & Testimonials**
 
-- **Lead Instructor**: Trained 100+ engineers in Appium, Selenium, and Playwright.
+- **QA Instructor**: Trained 100+ engineers in Appium, Selenium, and Playwright.
 - **QA Architect**: Led testing strategies across microservices, improving bug-free releases by 45%.
 
 ---
